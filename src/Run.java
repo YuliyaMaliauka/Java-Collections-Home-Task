@@ -36,7 +36,6 @@ public class Run {
 			//call search methods
 			findWord(map,"Collections"); 
 			findWord(map,"Yuliya");
-			
 		} 
 		catch (NoSuchElementException e) {
 			e.getMessage();
